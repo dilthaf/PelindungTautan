@@ -1,4 +1,4 @@
-# PelindungTautan
+
 # PelindungTautan
 
 PelindungTautan adalah sebuah aplikasi untuk memeriksa keamanan URL secara otomatis. Dengan menggunakan teknologi terkini dalam keamanan siber, aplikasi ini dapat mendeteksi potensi ancaman seperti phishing dan malware, serta membersihkan URL dari parameter berbahaya menggunakan katalog terpercaya.
